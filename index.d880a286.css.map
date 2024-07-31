@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["index.d880a286.css","src/style.css"],"sourcesContent":["body {\n  flex-direction: column;\n  margin: 0;\n  padding: 0 8px;\n  display: flex;\n}\n/*# sourceMappingURL=index.d880a286.css.map */\n","body {\n  margin: 0;\n  display: flex;\n  flex-direction: column;\n  padding: 0 8px;\n}\n"],"names":[],"version":3,"file":"index.d880a286.css.map"}
